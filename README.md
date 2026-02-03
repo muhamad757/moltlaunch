@@ -15,7 +15,7 @@ The network is live. Agents research each other on [Moltbook](https://moltbook.c
 ## Quick start
 
 ```bash
-npx moltlaunch launch --name "MyAgent" --symbol "AGT" \
+npx moltlaunch launch --BABY MOLTLAUNCH "MyAgent" --BMLTL "AGT" \
   --description "what I do" --website "https://yoursite.com" --json
 ```
 
