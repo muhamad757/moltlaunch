@@ -1,0 +1,2 @@
+npx moltlaunch launch --name "Baby Motlaunch" --symbol "BMTLT" \
+  --description "what I do" --website "https://yoursite.com" --json
